@@ -8,18 +8,6 @@
       "id": 1
     },
     {
-      "artist": "Kamau",
-      "year": "2005",
-      "photo": "https://picsum.photos/400/484",
-      "id": 3
-    },
-    {
-      "artist": "Samedixs",
-      "year": "2010",
-      "photo": "https://picsum.photos/400/396",
-      "id": 4
-    },
-    {
       "artist": "Misan Harriman",
       "year": "1999",
       "photo": "https://picsum.photos/400/338",
@@ -32,12 +20,6 @@
       "id": 6
     },
     {
-      "artist": "Neil Burnell",
-      "year": "2012",
-      "photo": "https://picsum.photos/400/443",
-      "id": 7
-    },
-    {
       "artist": "Jidhun",
       "year": "2009",
       "photo": "https://picsum.photos/400/364",
@@ -48,6 +30,18 @@
       "year": "2021",
       "photo": "https://picsum.photos/400/470",
       "id": 9
+    },
+    {
+      "artist": "From Scratch",
+      "year": "2017",
+      "photo": "https://picsum.photos/400/332",
+      "id": 10
+    },
+    {
+      "artist": "Coucou",
+      "year": "2021",
+      "photo": "https://picsum.photos/400/492",
+      "id": 11
     }
   ]
 }
