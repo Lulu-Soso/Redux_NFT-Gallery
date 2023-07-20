@@ -8,7 +8,7 @@ import { editPicture } from "../feature/pictures.slice";
 const PicCard = ({ pic }) => {
   const [edit, setEdit] = useState(false);
   const artistInput = useRef();
-  const dispatch = useDispatch;
+  const dispatch = useDispatch();
 
   const handleEdit = () => {
     setEdit(false);
